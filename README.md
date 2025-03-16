@@ -1,1 +1,1 @@
-# shell_styling
+# shell-styling
